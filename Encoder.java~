@@ -39,16 +39,3 @@ public class Encoder
 	    }	
 	}
 }
-
-public class Trie
-{
-    
-
-
-
-
-
-    
-
-
-}
